@@ -21,7 +21,7 @@ nav{
 
 }
 a{
-    color: rgb(107, 107, 107);
+    color: rgba(107, 107, 107, 0.849);
     font-family: sans-serif;
     font-size: 15px;
     line-height: 1cm;
